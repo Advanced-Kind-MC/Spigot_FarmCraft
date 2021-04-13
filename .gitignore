@@ -1,1 +1,18 @@
 /bin/
+
+# eclipse
+/.settings/
+.classpath
+.project
+
+# intellij
+/.idea/
+/*.iml
+
+# maven
+/target/
+dependency-reduced-pom.xml
+
+# some random jars
+commons-codec-1.13.jar
+HolographicDisplays-2.3.3-SNAPSHOT.jar
